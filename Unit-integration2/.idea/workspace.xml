@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e4b2308-d578-49d7-8ed6-9be65546e997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/udit-sbt-master-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/udit-sbt-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit-integration2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean_Code_Assignment-main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean_Code_Assignment-main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloScala/.idea/modules/HelloScala-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloScala/.idea/modules/HelloScala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven-Assignment/string-api/src/main/java/StringFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven-Assignment/string-api/src/main/java/StringFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven-Assignment/string-api/target/classes/StringFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven-Assignment/string-api/target/classes/StringFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven-Assignment/string-impl/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven-Assignment/string-impl/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven-Assignment/string-impl/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven-Assignment/string-impl/target/classes/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/modules/test-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/modules/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$399734a9c456179b0c91$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$399734a9c456179b0c91.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$399734a9c456179b0c91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$d3d875986a927e10e897$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$d3d875986a927e10e897.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$d3d875986a927e10e897.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f2f6c55fd9c900829bd6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f2f6c55fd9c900829bd6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f2f6c55fd9c900829bd6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f7cb94e90424fbb4bdba$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f7cb94e90424fbb4bdba.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/config-classes/$f7cb94e90424fbb4bdba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/src/main/scala/udit/DoubleQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/src/main/scala/udit/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/src/main/scala/udit/Quu.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/src/main/scala/udit/SquareQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/.history3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/global-logging/sbt-global-log1695602866887036878.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/classes/udit/DoubleQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/classes/udit/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/classes/udit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/classes/udit/Quu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/classes/udit/SquareQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS Assignment 2(DoubleQueue)/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS-Assignment1-Udit/.idea/modules/OOPS-Assignment1-Udit-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS-Assignment1-Udit/.idea/modules/OOPS-Assignment1-Udit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oops2(person)" beforeDir="false" afterPath="$PROJECT_DIR$/../../Oops2(person)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oops2/.idea/modules/Oops2-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oops2/.idea/modules/Oops2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oops2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oops2/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sbt-Assignment/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/Actor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/Sbt-Assignment-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/Sbt-Assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udit-sbt-master/.idea/modules/http.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udit-sbt-master/root/root.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clean_code_Assignment/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firstinscala/.idea/modules/firstinscala-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../firstinscala/.idea/modules/firstinscala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/.idea/modules/oopps1-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/.idea/modules/oopps1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/src/main/scala/oops1/DoubleQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/src/main/scala/oops1/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/src/main/scala/oops1/Queue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oopps1/src/main/scala/oops1/SquareQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sbt/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_13_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sbt/.idea/modules/sbt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sbt/.idea/modules/sbt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sbt/src/main/scala/example/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../sbt/src/main/scala/example/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules/test-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1y86SQOUn1EfnfuyJVhWdQwOOcw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="unit-integration2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e4b2308-d578-49d7-8ed6-9be65546e997" name="Changes" comment="" />
+      <created>1631620869316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631620869316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
